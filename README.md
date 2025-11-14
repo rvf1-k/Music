@@ -55,7 +55,7 @@ Inciamos sesión con los tokens de una cuenta de Qobuz 🪪.
 Es darle a buscar y descargar no hay perdida 👍, también se puede buscar en el [Qobuz Web](https://play.qobuz.com/discover) y poner el link.
 
 > [!NOTE]
-> Usa [firehawk52]([https://rentry.co/FMHYB64#firehawk](https://rentry.co/FMHYB64#firehawk:~:text=aHR0cHM6Ly9wYXN0ZWJpbi5jb20vQW44NFVqNEQ%3D-,firehawk,-aHR0cHM6Ly9wYXN0ZWJpbi5jb20vUG53OXJFMkQ%3D)).
+> Usa [firehawk52](https://rentry.co/FMHYB64#firehawk:~:text=aHR0cHM6Ly9wYXN0ZWJpbi5jb20vQW44NFVqNEQ%3D-,firehawk,-aHR0cHM6Ly9wYXN0ZWJpbi5jb20vUG53OXJFMkQ%3D).
 ---
 
 ## 2.1 Soulseek
